@@ -53,19 +53,19 @@ Building repositories to showcase learning, projects, and technical growth.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshavardhanyadav317&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav317&layout=compact)
 
 ---
 
 ## Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/kurva-harsha-vardhan
 
-📧 Email: YOUR_EMAIL
+📧 Email: harshavardhanyadav317@gmail.com
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/harshavardhanyadav317
 
 ---
 
